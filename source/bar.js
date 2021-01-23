@@ -1,12 +1,12 @@
 /**
  * bar.js
  * Simple, elegant bar chart library
- * January 22th, 2020 - version 1.0
- * {url}
+ * 23.01.2021 - version 1.0
+ * https://github.com/MarlonT96/bar-js
  *
- * Copyright 2021 Marlon Torres
+ * Copyright 2021 Marlon Torres <marlont.bts@gmail.com>
  * Realeased under MIT License
- * {license url}
+ * https://github.com/MarlonT96/bar-js/blob/main/LICENSE.md
  */
 
 'use strict';
